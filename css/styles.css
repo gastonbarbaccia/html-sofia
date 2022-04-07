@@ -1,0 +1,13 @@
+/* Clase */
+.hero-inicio {
+    background-image: url(/hero.jpeg);
+    height: 500px;
+    background-size: cover;
+}
+
+.header-gbb {
+    color: white;
+    font-size: 230%;
+    padding-top: 10%;
+    text-align: center;
+}
