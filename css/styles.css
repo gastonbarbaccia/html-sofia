@@ -11,3 +11,37 @@
     padding-top: 10%;
     text-align: center;
 }
+
+.logo-img{
+    font-size: 160%;
+}
+
+.logo-color{
+    color:chartreuse;
+}
+
+.subtitulo-hero{
+    font-size: 60%;
+}
+
+.card-container{
+    margin-top:5%;
+    margin-left:15%;
+    margin-bottom: 10%;
+}
+
+.hola-sofi{
+    width: 18rem;
+    float:left;
+    margin-right: 5%;
+}
+
+.img-aws{
+    background-image: url(/banner.jpg);
+    height: 200px;
+    width: 80%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
